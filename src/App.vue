@@ -1,6 +1,7 @@
 <script setup>
 
 import Padre from '@/components/Padre/Padre.vue';
+import Tarea from '@/components/Tarea/Tarea.vue'
 
 
 </script>
@@ -8,6 +9,7 @@ import Padre from '@/components/Padre/Padre.vue';
 <template>
 
   <Padre></Padre>
+  <Tarea></Tarea>
 
 
 </template>
